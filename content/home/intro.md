@@ -8,4 +8,6 @@ design:
   background:
     image: img-20230410-wa0003.jpg
 ---
+![Föhn vorhanden](svgexport-47.svg "Föhn vorhanden")
+
 Kamin: Holz

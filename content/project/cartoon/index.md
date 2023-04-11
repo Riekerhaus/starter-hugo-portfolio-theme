@@ -1,10 +1,10 @@
 ---
 title: Bad
 date: 2022-01-01
-summary: Write about your project here...
+summary: Badezimmer
 tags:
   - CV
-external_link: http://github.com
+external_link: ""
 image:
   filename: img-20230410-wa0007.jpg
 ---

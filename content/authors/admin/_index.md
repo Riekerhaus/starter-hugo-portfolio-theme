@@ -1,7 +1,7 @@
 ---
 title: Ferienwohnung - Riekerhaus
 role: ""
-avatar_filename: img-20230410-wa0001.jpg
+avatar_filename: avatar.jpg
 bio: ""
 email: riekerhaus@gmail.com
 superuser: true

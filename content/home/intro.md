@@ -4,10 +4,11 @@ widget_id: Wohnzimmer
 headless: true
 weight: 10
 author: admin
+active: false
 design:
   background:
-    image: img-20230410-wa0003.jpg
+    image: ""
 ---
-![Föhn vorhanden](svgexport-47.svg "Föhn vorhanden")
+![]()
 
 Kamin: Holz

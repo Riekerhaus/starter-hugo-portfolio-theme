@@ -12,7 +12,7 @@ social:
     link: about/#contact
   - icon: airbnb
     icon_pack: fab
-    link: https://airbnd.de/
+    link: https://airbnb.de/
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/geocushen

@@ -1,5 +1,5 @@
 ---
-title: Riekerhaus
+title: Ferienwohnung - Riekerhaus
 role: ""
 bio: ""
 email: riekerhaus@gmail.com

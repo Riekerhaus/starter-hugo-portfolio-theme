@@ -10,9 +10,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: about/#contact
-  - icon: twitter
+  - icon: airbnb
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://airbnd.de/
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/geocushen

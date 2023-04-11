@@ -22,7 +22,7 @@ design:
   view: masonry
   flip_alt_rows: true
   background:
-    image: img-20230410-wa0004.jpg
+    image: ""
   spacing:
     padding:
       - 0
